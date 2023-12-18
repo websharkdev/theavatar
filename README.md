@@ -44,7 +44,7 @@ npm install
 npm run dev
 ```
 
-Visit [mriya-ant225.vercel.app](https://mriya-ant225.vercel.app/) in your browser to experience the The Avatar
+Visit [theavatar.vercel.app/](https://theavatar.vercel.app/) in your browser to experience the The Avatar
 
 ## Scripts
 
